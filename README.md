@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [MYGPT](https://mygpt-lguc.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://porfolio-ochre-sigma.vercel.app/](https://porfolio-ochre-sigma.vercel.app/)
+
 
 - 💬 Ask me about **JavaScript,react,node.js,Express**
 
